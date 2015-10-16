@@ -18,7 +18,7 @@ void setup() {
     Serial.println("Parse Starter Project");
   
   // Initialize Parse
-  Parse.begin("1KVktcyptUaCadXvML2oV1t1DTKp47ktIWHalorf", "3e14zFUQiYkMPWhnMC8aPfAXZF5QWwPsNBiBq9bf");
+  Parse.begin("***", "***");
   Serial.println("Parse inited.");
 
   // Start push service
